@@ -1,0 +1,8 @@
+MIDlet-1: FL2Angle,/icon.png,FL2Angle
+MIDlet-Jar-Size: 13291
+MIDlet-Jar-URL: FL2Angle.jar
+MIDlet-Name: FL2Angle
+MIDlet-Vendor: Domenico Rosario Caldesi
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
